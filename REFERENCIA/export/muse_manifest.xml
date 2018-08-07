@@ -1,0 +1,165 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="site.com.br" resolutions="1x" timestamp="1533243964067">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="48179343" ref="index"/>
+    <file name="nomq_index.css" crc="3759007274" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="001_header.jpg" crc="4042703844" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001_logo_topo1.png" crc="4200397466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001_titulo_texto.png" crc="420658271" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001_logo_topo2.png" crc="128808011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001_onda.png" crc="3949113012" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002_celular.png" crc="164463576" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002_texto.png" crc="4010827884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002_bt.png" crc="4235123585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001_titulo_texto244x194.png" crc="420658271" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001_onda-u1033-fr.png" crc="476980397" ref="index"/>
+    <file name="002_celular-u1668-fr.png" crc="4157800208" ref="index"/>
+    <file name="001_titulo_texto187x149.png" crc="420658271" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001_onda-u1033-fr2.png" crc="3946938768" ref="index"/>
+    <file name="002_celular-u1668-fr2.png" crc="4241587706" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="superdigital-favicon.ico" crc="4046594318" ref="index"/>
+    <file name="002_titulo.png" crc="3792198952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002_icon1.png" crc="4117558185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002_icon2.png" crc="3985432618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002_icon3.png" crc="367917187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002_icon4.png" crc="3857395692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002_icon5.png" crc="4256222742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002_icon6.png" crc="4214698925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002_icon7.png" crc="226533892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002_icon8.png" crc="444842907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg.jpg" crc="423242590" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="003_titulo.png" crc="4253394660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="003_box1.png" crc="4023745447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="003_box2.png" crc="3830037996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="004_titulo.png" crc="391608725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="004_passos_horizontal.png" crc="3803827307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="003_box1242x475.png" crc="4023745447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="003_box2242x474.png" crc="3830037996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="004_passos_vertical.png" crc="21780776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3920601972" seo="true" mt="1533243650447" redirect="true"/>
+</manifest>

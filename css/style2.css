@@ -1,0 +1,49 @@
+.celular{
+	margin-top: -200px;
+	width: 500px;
+	margin-left: -50px;
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+	.celular {
+		margin-top: -200px;
+		width: 420px;
+		margin-left: 0px;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.celular {
+		margin-top: -200px;
+		width: 320px;
+		margin-left: 0px;
+	}
+}
+
+.cadastro{
+	color: #5400a2;
+}
+
+.cadastro:hover {
+	color: #fff;
+}
+
+.logos {
+	text-align: center;
+	width: 155px;
+	height: 70px;
+}
+
+@media only screen and (max-width: 1000px){
+	.logos {
+	text-align: center;
+	width: 120px;
+	height: 70px;
+}
+}
+
+.icons-sant {
+	width: 62px;
+}
